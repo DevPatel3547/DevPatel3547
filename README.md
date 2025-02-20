@@ -16,10 +16,9 @@
 
 ## 📊 GitHub Stats
 
-![Dev Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevPatel3547&show_icons=true&theme=dark&count_private=true)
-![Total Commits](https://img.shields.io/badge/Total%20Commits-500%2B-blue?style=flat&logo=github)
-![Repositories](https://img.shields.io/badge/Public%20Repositories-26-green?style=flat&logo=github)
-![Contributions](https://img.shields.io/badge/Total%20Contributions-1000%2B-purple?style=flat&logo=github)
+📌 **Total Commits:** ![Total Commits](https://img.shields.io/badge/Total%20Commits-500%2B-blue?style=flat&logo=github)
+📌 **Public Repositories:** ![Repositories](https://img.shields.io/badge/Public%20Repositories-26-green?style=flat&logo=github)
+📌 **Total Contributions:** ![Contributions](https://img.shields.io/badge/Total%20Contributions-1000%2B-purple?style=flat&logo=github)
 
 ---
 
