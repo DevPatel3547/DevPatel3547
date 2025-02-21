@@ -9,7 +9,6 @@
 ## 📌 About Me  
 
 - 💡 **Interests:** Software Engineering, Data Engineering, Machine Learning, Trading, and Full-Stack Development.  
-- 📚 **Fun Fact:** I once represented my state in India at the **Nationals (U16) Chess Tournament**!♟️  
 - 🎯 **Goal:** To build innovative software that bridges technology and efficiency.  
 
 ---
